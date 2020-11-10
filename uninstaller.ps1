@@ -1,0 +1,15 @@
+  choco uninstall git -x
+  choco uninstall maven -x
+  choco uninstall intellijidea-community -x
+  choco uninstall postman -x
+  choco uninstall mysql5.7 -x
+  choco uninstall postgresql -x
+  choco uninstall mysql.workbench -x
+  choco uninstall pgadmin4 -x
+  choco uninstall awscli -x
+  choco uninstall googlechrome -x
+  choco uninstall onedrive -x
+  choco uninstall google-backup-and-sync -x
+  choco uninstall evernote -x
+  choco uninstall notepadplusplus -x
+  choco uninstall dashlane -x 
