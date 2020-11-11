@@ -1,6 +1,6 @@
 # learn-developer-installer
 
-Foobar is a Python library for dealing with word pluralization.
+learn-developer-installer is an install script for developers using Windows
 
 ## Installation
 
